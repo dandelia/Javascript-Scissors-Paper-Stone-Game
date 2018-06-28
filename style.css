@@ -1,0 +1,22 @@
+#container {
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+body, h1 {
+    font-family: sans-serif;
+}
+
+.guess {
+    display: inline-block;
+    padding: 2rem;
+}
+
+#randomguess {
+    background-color: orange;
+}
+
+#userguess {
+    background-color: cornflowerblue;
+}
